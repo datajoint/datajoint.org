@@ -1,0 +1,12 @@
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+.DS_Store
+node_modules/
+.env
+.vscode/
+*.json
+*.swp
+oidc/DataJoint.pem
